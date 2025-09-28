@@ -351,7 +351,7 @@ msgstr "Starting with the player to the left of the \"Storyteller's Gap\", call 
 msgid "Storyteller Instructions"
 msgstr "Storyteller Instructions"
 
-#: app/settings.tsx:230
+#: app/settings.tsx:231
 msgid "Support me on Ko-fi!"
 msgstr "Support me on Ko-fi!"
 

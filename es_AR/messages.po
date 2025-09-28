@@ -351,7 +351,7 @@ msgstr "Empezando por el jugador a la izquierda de la \"Brecha del Narrador\", l
 msgid "Storyteller Instructions"
 msgstr "Instrucciones del Narrador"
 
-#: app/settings.tsx:230
+#: app/settings.tsx:231
 msgid "Support me on Ko-fi!"
 msgstr "¡Apóyame en Ko-fi!"
 

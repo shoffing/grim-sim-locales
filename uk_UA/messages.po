@@ -351,7 +351,7 @@ msgstr ""
 msgid "Storyteller Instructions"
 msgstr ""
 
-#: app/settings.tsx:230
+#: app/settings.tsx:231
 msgid "Support me on Ko-fi!"
 msgstr ""
 
