@@ -1,0 +1,408 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-09-27 12:12-0400\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: pt_BR\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gemini\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: app/components/game-controls.tsx:139
+msgid "{aliveCount} players are alive ({aliveGood} good, {aliveEvil} evil)."
+msgstr "{aliveCount} jogadores estão vivos ({aliveGood} do bem, {aliveEvil} do mal)."
+
+#: app/components/game-controls.tsx:147
+msgid "{deadCount} players are dead ({deadGood} good, {deadEvil} evil)."
+msgstr "{deadCount} jogadores estão mortos ({deadGood} do bem, {deadEvil} do mal)."
+
+#: app/components/game-controls.tsx:125
+msgid "{voteRequirement} votes required to execute."
+msgstr "{voteRequirement} votos necessários para executar."
+
+#: app/components/game-controls.tsx:131
+msgid "{votesOnBoard} votes on the board ({ghostVotes} ghost)."
+msgstr "{votesOnBoard} votos no painel ({ghostVotes} fantasma)."
+
+#: app/components/draw-character-token.tsx:246
+msgid "Accept your fate."
+msgstr "Aceite o seu destino."
+
+#: app/screens/demon-bluffs.tsx:121
+msgid "Add bluff"
+msgstr "Adicionar blefe"
+
+#: app/screens/info-tokens.tsx:231
+msgid "Add custom"
+msgstr "Adicionar personalizado"
+
+#: app/components/character-controls.tsx:208
+#: app/components/game-controls.tsx:185
+msgid "Add reminder"
+msgstr "Adicionar lembrete"
+
+#: app/screens/reminder-select.tsx:132
+msgid "Add Reminders ({selectedCount})"
+msgstr "Adicionar Lembretes ({selectedCount})"
+
+#: app/components/game-controls.tsx:261
+msgid "Are you sure you want to clear the grimoire?"
+msgstr "Tem certeza que deseja limpar o grimório?"
+
+#: app/game-setup.tsx:790
+msgid "Are you sure you want to continue?"
+msgstr "Tem certeza que deseja continuar?"
+
+#: app/components/character-controls.tsx:310
+msgid "Are you sure you want to remove this character?"
+msgstr "Tem certeza que deseja remover este personagem?"
+
+#: app/settings.tsx:200
+msgid "Attributions"
+msgstr "Atribuições"
+
+#: app/settings.tsx:211
+msgid "BigBenstrikes.mp3 by hyderpotter -- https://freesound.org/s/80290/ -- License: Creative Commons 0"
+msgstr "BigBenstrikes.mp3 por hyderpotter -- https://freesound.org/s/80290/ -- Licença: Creative Commons 0"
+
+#: app/components/character-controls.tsx:314
+#: app/components/character-controls.tsx:345
+#: app/components/game-controls.tsx:265
+#: app/game-setup.tsx:795
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: app/components/character-controls.tsx:262
+msgid "Change team"
+msgstr "Mudar time"
+
+#: app/components/game-controls.tsx:178
+msgid "Characters"
+msgstr "Personagens"
+
+#: app/game-setup.tsx:551
+msgid "Characters ({selectedCount} / {playerCount})"
+msgstr "Personagens ({selectedCount} / {playerCount})"
+
+#: app/components/game-controls.tsx:275
+msgid "Clear"
+msgstr "Limpar"
+
+#: app/components/game-controls.tsx:245
+msgid "Clear grimoire"
+msgstr "Limpar grimório"
+
+#: app/game-setup.tsx:806
+msgid "Continue"
+msgstr "Continuar"
+
+#: app/game-setup.tsx:291
+msgid "Custom"
+msgstr "Personalizado"
+
+#: app/settings.tsx:169
+msgid "Day Timer (minutes)"
+msgstr "Temporizador do Dia (minutos)"
+
+#: app/game-setup.tsx:746
+msgid "DEM ({demonCount} / {demonCountTarget})"
+msgstr "DEM ({demonCount} / {demonCountTarget})"
+
+#: app/components/game-controls.tsx:215
+msgid "Demon bluffs"
+msgstr "Blefes do Demônio"
+
+#: app/screens/demon-bluffs.tsx:92
+msgid "Demon Bluffs"
+msgstr "Blefes do Demônio"
+
+#: app/night-order.tsx:168
+msgid "Demon Info"
+msgstr "Informações do Demônio"
+
+#: app/game-setup.tsx:770
+msgid "Draw characters"
+msgstr "Sortear personagens"
+
+#: app/screens/character-select.tsx:256
+msgid "Fabled"
+msgstr "Lendários"
+
+#: app/game-setup.tsx:723
+msgid "Final Counts"
+msgstr "Contagens Finais"
+
+#: app/night-order.tsx:226
+msgid "First Night"
+msgstr "Primeira Noite"
+
+#: app/components/character-controls.tsx:186
+msgid "First night:"
+msgstr "Primeira noite:"
+
+#: app/components/game-controls.tsx:116
+msgid "Game Info"
+msgstr "Informações do Jogo"
+
+#: app/components/game-controls.tsx:225
+msgid "Game setup"
+msgstr "Configuração do jogo"
+
+#: app/game-setup.tsx:710
+msgid "Game Setup"
+msgstr "Configuração do Jogo"
+
+#: app/settings.tsx:208
+msgid "Gong.wav by juskiddink -- https://freesound.org/s/86773/ -- License: Attribution 4.0"
+msgstr "Gong.wav por juskiddink -- https://freesound.org/s/86773/ -- Licença: Atribuição 4.0"
+
+#: app/draw-characters-instructions.tsx:128
+msgid "Got it!"
+msgstr "Entendi!"
+
+#: app/game-setup.tsx:778
+msgid "Hide Abilities"
+msgstr "Ocultar Habilidades"
+
+#: app/components/game-controls.tsx:205
+msgid "Info tokens"
+msgstr "Fichas de informação"
+
+#: app/screens/info-tokens.tsx:183
+msgid "Info Tokens"
+msgstr "Fichas de Informação"
+
+#: app/game-setup.tsx:717
+#: app/screens/character-select.tsx:232
+#: app/show-jinxes.tsx:95
+msgid "Jinxes"
+msgstr "Maldicões"
+
+#: app/components/character-controls.tsx:245
+msgid "Kill player"
+msgstr "Matar jogador"
+
+#: app/settings.tsx:159
+msgid "Language"
+msgstr "Idioma"
+
+#: app/screens/reminder-select.tsx:149
+msgid "Long-press to start multi-select mode."
+msgstr "Pressione e segure para iniciar o modo de seleção múltipla."
+
+#: app/game-setup.tsx:741
+msgid "MIN ({minionCount} / {minionCountTarget})"
+msgstr "MIN ({minionCount} / {minionCountTarget})"
+
+#: app/night-order.tsx:153
+msgid "Minion Info"
+msgstr "Informações do Súbdito"
+
+#: app/game-setup.tsx:620
+msgid "Must select exactly {playerCount} characters."
+msgstr "Deve selecionar exatamente {playerCount} personagens."
+
+#: app/components/character-controls.tsx:338
+msgid "Name"
+msgstr "Nome"
+
+#: app/screens/info-tokens.tsx:201
+msgid "New custom info token"
+msgstr "Nova ficha de informação personalizada"
+
+#: app/components/game-controls.tsx:195
+msgid "Night Order"
+msgstr "Ordem da Noite"
+
+#: app/components/jinxes.tsx:96
+msgid "No jinxes found."
+msgstr "Nenhuma maldição encontrada."
+
+#: app/components/character-controls.tsx:200
+#: app/game-setup.tsx:493
+msgid "Open wiki"
+msgstr "Abrir wiki"
+
+#: app/night-order.tsx:231
+msgid "Other Nights"
+msgstr "Outras Noites"
+
+#: app/components/character-controls.tsx:194
+msgid "Other nights:"
+msgstr "Outras noites:"
+
+#: app/game-setup.tsx:736
+msgid "OUT ({outsiderCount} / {outsiderCountTarget})"
+msgstr "OUT ({outsiderCount} / {outsiderCountTarget})"
+
+#: app/game-setup.tsx:330
+msgid "Players"
+msgstr "Jogadores"
+
+#: app/game-setup.tsx:610
+msgid "Remember setup steps for the {characterName} {rule}"
+msgstr "Lembrar passos de configuração para {rule} do personagem {characterName}"
+
+#: app/components/character-controls.tsx:299
+#: app/components/character-controls.tsx:324
+#: app/components/reminder-controls.tsx:77
+msgid "Remove"
+msgstr "Remover"
+
+#: app/components/character-controls.tsx:271
+#: app/components/reminder-controls.tsx:71
+msgid "Replace"
+msgstr "Substituir"
+
+#: app/night-order.tsx:265
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: app/components/character-controls.tsx:225
+msgid "Restore ghost vote"
+msgstr "Restaurar voto fantasma"
+
+#: app/components/character-controls.tsx:245
+msgid "Revive player"
+msgstr "Reviver jogador"
+
+#: app/screens/character-select.tsx:267
+msgid "Search characters."
+msgstr "Buscar personagens."
+
+#: app/screens/reminder-select.tsx:142
+msgid "Search reminders."
+msgstr "Buscar lembretes."
+
+#: app/game-setup.tsx:301
+msgid "Select custom script"
+msgstr "Selecionar roteiro personalizado"
+
+#: app/game-setup.tsx:278
+msgid "Select Edition"
+msgstr "Selecionar Edição"
+
+#: app/game-setup.tsx:554
+msgid "Select Random"
+msgstr "Selecionar Aleatório"
+
+#: app/components/character-controls.tsx:348
+msgid "Set name"
+msgstr "Definir nome"
+
+#: app/components/character-controls.tsx:290
+#: app/components/character-controls.tsx:331
+msgid "Set player name"
+msgstr "Definir nome do jogador"
+
+#: app/components/game-controls.tsx:235
+#: app/settings.tsx:152
+msgid "Settings"
+msgstr "Configurações"
+
+#: app/game-setup.tsx:437
+msgid "Setup"
+msgstr "Configuração"
+
+#: app/components/character-controls.tsx:279
+msgid "Show"
+msgstr "Mostrar"
+
+#: app/game-setup.tsx:778
+msgid "Show Abilities"
+msgstr "Mostrar Habilidades"
+
+#: app/night-order.tsx:254
+#: app/screens/reminder-select.tsx:120
+#: app/show-jinxes.tsx:104
+msgid "Show all"
+msgstr "Mostrar tudo"
+
+#: app/screens/demon-bluffs.tsx:104
+msgid "Show bluffs"
+msgstr "Mostrar blefes"
+
+#: app/night-order.tsx:243
+msgid "Show players"
+msgstr "Mostrar jogadores"
+
+#: app/game-setup.tsx:773
+msgid "Skip drawing characters"
+msgstr "Pular sorteio de personagens"
+
+#: app/draw-characters.tsx:134
+msgid "Start the game"
+msgstr "Começar o jogo"
+
+#: app/draw-characters-instructions.tsx:122
+msgid "Starting with the player to the left of the \"Storyteller's Gap\", call your players up one at a time in clockwise order to draw a character on the following screen."
+msgstr "Começando pelo jogador à esquerda da \"Lacuna do Narrador\", chame seus jogadores um de cada vez, em sentido horário, para sortear um personagem na tela seguinte."
+
+#: app/draw-characters-instructions.tsx:119
+msgid "Storyteller Instructions"
+msgstr "Instruções do Narrador"
+
+#: app/settings.tsx:223
+msgid "Support me on Ko-fi!"
+msgstr "Apoie-me no Ko-fi!"
+
+#: app/settings.tsx:203
+msgid "This project uses assets from https://www.freepik.com/. Thanks to macrovector / kotkoa / Freepik!"
+msgstr "Este projeto utiliza recursos de https://www.freepik.com/. Agradecimentos a macrovector / kotkoa / Freepik!"
+
+#: app/contexts/timer-context.tsx:106
+msgid "Time's up!"
+msgstr "Acabou o tempo!"
+
+#: app/settings.tsx:190
+msgid "Timer Alarm"
+msgstr "Alarme do Temporizador"
+
+#: app/game-setup.tsx:726
+msgid "TOTAL ({selectedCount} / {playerCount})"
+msgstr "TOTAL ({selectedCount} / {playerCount})"
+
+#: app/game-setup.tsx:731
+msgid "TOWN ({townsfolkCount} / {townsfolkCountTarget})"
+msgstr "TOWN ({townsfolkCount} / {townsfolkCountTarget})"
+
+#: app/game-setup.tsx:752
+msgid "TRAV ({travellerCount} / {travellerCountTarget})"
+msgstr "TRAV ({travellerCount} / {travellerCountTarget})"
+
+#: app/screens/character-select.tsx:247
+msgid "Travellers"
+msgstr "Viajantes"
+
+#: app/game-setup.tsx:238
+msgid "Upload custom script"
+msgstr "Carregar roteiro personalizado"
+
+#: app/components/character-controls.tsx:225
+msgid "Use ghost vote"
+msgstr "Usar voto fantasma"
+
+#: app/screens/character-select.tsx:237
+msgid "View Abilities"
+msgstr "Ver Habilidades"
+
+#: app/night-order.tsx:154
+msgid "Wake all the Minions and show them the Demon."
+msgstr "Acorde todos os Súbditos e mostre-lhes o Demônio."
+
+#: app/night-order.tsx:169
+msgid "Wake the Demon and show all Minions. Then, show the Demon any three good character tokens that are not in play."
+msgstr "Acorde o Demônio e mostre-lhe todos os Súbditos. Em seguida, mostre ao Demônio três fichas de personagem do bem que não estejam em jogo."
+
+#: app/components/draw-character-token.tsx:233
+msgid "What's your name?"
+msgstr "Qual é o seu nome?"
+
+#: app/game-setup.tsx:785
+msgid "You have setup errors."
+msgstr "Você tem erros de configuração."
