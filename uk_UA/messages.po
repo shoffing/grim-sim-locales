@@ -54,7 +54,7 @@ msgstr ""
 msgid "Are you sure you want to clear the grimoire?"
 msgstr ""
 
-#: app/game-setup.tsx:790
+#: app/game-setup.tsx:791
 msgid "Are you sure you want to continue?"
 msgstr ""
 
@@ -62,18 +62,18 @@ msgstr ""
 msgid "Are you sure you want to remove this character?"
 msgstr ""
 
-#: app/settings.tsx:200
+#: app/settings.tsx:207
 msgid "Attributions"
 msgstr ""
 
-#: app/settings.tsx:211
+#: app/settings.tsx:218
 msgid "BigBenstrikes.mp3 by hyderpotter -- https://freesound.org/s/80290/ -- License: Creative Commons 0"
 msgstr ""
 
 #: app/components/character-controls.tsx:314
 #: app/components/character-controls.tsx:345
 #: app/components/game-controls.tsx:265
-#: app/game-setup.tsx:795
+#: app/game-setup.tsx:796
 msgid "Cancel"
 msgstr ""
 
@@ -97,7 +97,7 @@ msgstr ""
 msgid "Clear grimoire"
 msgstr ""
 
-#: app/game-setup.tsx:806
+#: app/game-setup.tsx:807
 msgid "Continue"
 msgstr ""
 
@@ -105,11 +105,11 @@ msgstr ""
 msgid "Custom"
 msgstr ""
 
-#: app/settings.tsx:169
+#: app/settings.tsx:176
 msgid "Day Timer (minutes)"
 msgstr ""
 
-#: app/game-setup.tsx:746
+#: app/game-setup.tsx:747
 msgid "DEM ({demonCount} / {demonCountTarget})"
 msgstr ""
 
@@ -125,7 +125,7 @@ msgstr ""
 msgid "Demon Info"
 msgstr ""
 
-#: app/game-setup.tsx:770
+#: app/game-setup.tsx:771
 msgid "Draw characters"
 msgstr ""
 
@@ -133,7 +133,7 @@ msgstr ""
 msgid "Fabled"
 msgstr ""
 
-#: app/game-setup.tsx:723
+#: app/game-setup.tsx:724
 msgid "Final Counts"
 msgstr ""
 
@@ -153,11 +153,11 @@ msgstr ""
 msgid "Game setup"
 msgstr ""
 
-#: app/game-setup.tsx:710
+#: app/game-setup.tsx:711
 msgid "Game Setup"
 msgstr ""
 
-#: app/settings.tsx:208
+#: app/settings.tsx:215
 msgid "Gong.wav by juskiddink -- https://freesound.org/s/86773/ -- License: Attribution 4.0"
 msgstr ""
 
@@ -165,7 +165,7 @@ msgstr ""
 msgid "Got it!"
 msgstr ""
 
-#: app/game-setup.tsx:778
+#: app/game-setup.tsx:779
 msgid "Hide Abilities"
 msgstr ""
 
@@ -177,7 +177,7 @@ msgstr ""
 msgid "Info Tokens"
 msgstr ""
 
-#: app/game-setup.tsx:717
+#: app/game-setup.tsx:718
 #: app/screens/character-select.tsx:232
 #: app/show-jinxes.tsx:95
 msgid "Jinxes"
@@ -187,7 +187,7 @@ msgstr ""
 msgid "Kill player"
 msgstr ""
 
-#: app/settings.tsx:159
+#: app/settings.tsx:166
 msgid "Language"
 msgstr ""
 
@@ -195,7 +195,7 @@ msgstr ""
 msgid "Long-press to start multi-select mode."
 msgstr ""
 
-#: app/game-setup.tsx:741
+#: app/game-setup.tsx:742
 msgid "MIN ({minionCount} / {minionCountTarget})"
 msgstr ""
 
@@ -203,7 +203,7 @@ msgstr ""
 msgid "Minion Info"
 msgstr ""
 
-#: app/game-setup.tsx:620
+#: app/game-setup.tsx:621
 msgid "Must select exactly {playerCount} characters."
 msgstr ""
 
@@ -236,7 +236,7 @@ msgstr ""
 msgid "Other nights:"
 msgstr ""
 
-#: app/game-setup.tsx:736
+#: app/game-setup.tsx:737
 msgid "OUT ({outsiderCount} / {outsiderCountTarget})"
 msgstr ""
 
@@ -245,7 +245,11 @@ msgid "Players"
 msgstr ""
 
 #: app/game-setup.tsx:610
-msgid "Remember setup steps for the {characterName} {rule}"
+#~ msgid "Remember setup steps for the {characterName} {rule}"
+#~ msgstr ""
+
+#: app/game-setup.tsx:610
+msgid "Remember setup steps for the {characterName}{rule}"
 msgstr ""
 
 #: app/components/character-controls.tsx:299
@@ -301,7 +305,7 @@ msgid "Set player name"
 msgstr ""
 
 #: app/components/game-controls.tsx:235
-#: app/settings.tsx:152
+#: app/settings.tsx:159
 msgid "Settings"
 msgstr ""
 
@@ -313,7 +317,7 @@ msgstr ""
 msgid "Show"
 msgstr ""
 
-#: app/game-setup.tsx:778
+#: app/game-setup.tsx:779
 msgid "Show Abilities"
 msgstr ""
 
@@ -331,7 +335,7 @@ msgstr ""
 msgid "Show players"
 msgstr ""
 
-#: app/game-setup.tsx:773
+#: app/game-setup.tsx:774
 msgid "Skip drawing characters"
 msgstr ""
 
@@ -347,11 +351,11 @@ msgstr ""
 msgid "Storyteller Instructions"
 msgstr ""
 
-#: app/settings.tsx:223
+#: app/settings.tsx:230
 msgid "Support me on Ko-fi!"
 msgstr ""
 
-#: app/settings.tsx:203
+#: app/settings.tsx:210
 msgid "This project uses assets from https://www.freepik.com/. Thanks to macrovector / kotkoa / Freepik!"
 msgstr ""
 
@@ -359,19 +363,19 @@ msgstr ""
 msgid "Time's up!"
 msgstr ""
 
-#: app/settings.tsx:190
+#: app/settings.tsx:197
 msgid "Timer Alarm"
 msgstr ""
 
-#: app/game-setup.tsx:726
+#: app/game-setup.tsx:727
 msgid "TOTAL ({selectedCount} / {playerCount})"
 msgstr ""
 
-#: app/game-setup.tsx:731
+#: app/game-setup.tsx:732
 msgid "TOWN ({townsfolkCount} / {townsfolkCountTarget})"
 msgstr ""
 
-#: app/game-setup.tsx:752
+#: app/game-setup.tsx:753
 msgid "TRAV ({travellerCount} / {travellerCountTarget})"
 msgstr ""
 
@@ -403,6 +407,6 @@ msgstr ""
 msgid "What's your name?"
 msgstr ""
 
-#: app/game-setup.tsx:785
+#: app/game-setup.tsx:786
 msgid "You have setup errors."
 msgstr ""
