@@ -70,6 +70,10 @@ msgstr ""
 msgid "BigBenstrikes.mp3 by hyderpotter -- https://freesound.org/s/80290/ -- License: Creative Commons 0"
 msgstr ""
 
+#: src/state/settings-slice.ts:36
+msgid "Bing Bong"
+msgstr ""
+
 #: app/components/character-controls.tsx:314
 #: app/components/character-controls.tsx:345
 #: app/components/game-controls.tsx:265
@@ -157,6 +161,10 @@ msgstr ""
 msgid "Game Setup"
 msgstr ""
 
+#: src/state/settings-slice.ts:28
+msgid "Gong"
+msgstr ""
+
 #: app/settings.tsx:215
 msgid "Gong.wav by juskiddink -- https://freesound.org/s/86773/ -- License: Attribution 4.0"
 msgstr ""
@@ -191,6 +199,10 @@ msgstr ""
 msgid "Language"
 msgstr ""
 
+#: src/state/settings-slice.ts:32
+msgid "Large Benjamin"
+msgstr ""
+
 #: app/screens/reminder-select.tsx:149
 msgid "Long-press to start multi-select mode."
 msgstr ""
@@ -201,6 +213,10 @@ msgstr ""
 
 #: app/night-order.tsx:153
 msgid "Minion Info"
+msgstr ""
+
+#: constants/characters/character-data.ts:109
+msgid "Must not put the {name} in the bag."
 msgstr ""
 
 #: app/game-setup.tsx:621
@@ -221,6 +237,10 @@ msgstr ""
 
 #: app/components/jinxes.tsx:96
 msgid "No jinxes found."
+msgstr ""
+
+#: src/state/settings-slice.ts:25
+msgid "None"
 msgstr ""
 
 #: app/components/character-controls.tsx:200
