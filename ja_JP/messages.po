@@ -13,420 +13,420 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: app/components/game-controls.tsx:139
+#: app/components/game-controls.tsx
 msgid "{aliveCount} players are alive ({aliveGood} good, {aliveEvil} evil)."
 msgstr "生存者は{aliveCount}人です。（善良：{aliveGood}人、悪：{aliveEvil}人）"
 
-#: app/components/game-controls.tsx:147
+#: app/components/game-controls.tsx
 msgid "{deadCount} players are dead ({deadGood} good, {deadEvil} evil)."
 msgstr "死亡者は{deadCount}人です。（善良：{deadGood}人、悪：{deadEvil}人）"
 
-#: app/components/game-controls.tsx:125
+#: app/components/game-controls.tsx
 msgid "{voteRequirement} votes required to execute."
 msgstr "処刑に必要な投票数：{voteRequirement}票"
 
-#: app/components/game-controls.tsx:131
+#: app/components/game-controls.tsx
 msgid "{votesOnBoard} votes on the board ({ghostVotes} ghost)."
 msgstr "盤上の投票数：{votesOnBoard}票（ゴースト投票：{ghostVotes}票）"
 
-#: app/components/draw-character-token.tsx:246
+#: app/components/draw-character-token.tsx
 msgid "Accept your fate."
 msgstr "運命を受け入れましょう。"
 
-#: app/screens/demon-bluffs.tsx:121
+#: app/screens/demon-bluffs.tsx
 msgid "Add bluff"
 msgstr "ブラフを追加"
 
-#: app/screens/info-tokens.tsx:231
+#: app/screens/info-tokens.tsx
 msgid "Add custom"
 msgstr "カスタムを追加"
 
-#: app/components/character-controls.tsx:208
-#: app/components/game-controls.tsx:185
+#: app/components/character-controls.tsx
+#: app/components/game-controls.tsx
 msgid "Add reminder"
 msgstr "リマインダーを追加"
 
-#: app/screens/reminder-select.tsx:132
+#: app/screens/reminder-select.tsx
 msgid "Add Reminders ({selectedCount})"
 msgstr "リマインダーを追加 ({selectedCount})"
 
-#: app/components/game-controls.tsx:261
+#: app/components/game-controls.tsx
 msgid "Are you sure you want to clear the grimoire?"
 msgstr "グリモワールをクリアしてもよろしいですか？"
 
-#: app/game-setup.tsx:792
+#: app/game-setup.tsx
 msgid "Are you sure you want to continue?"
 msgstr "続行してもよろしいですか？"
 
-#: app/components/character-controls.tsx:310
+#: app/components/character-controls.tsx
 msgid "Are you sure you want to remove this character?"
 msgstr "このキャラクターを削除してもよろしいですか？"
 
-#: app/settings.tsx:207
+#: app/settings.tsx
 msgid "Attributions"
 msgstr "クレジット"
 
-#: app/settings.tsx:218
+#: app/settings.tsx
 msgid "BigBenstrikes.mp3 by hyderpotter -- https://freesound.org/s/80290/ -- License: Creative Commons 0"
 msgstr "BigBenstrikes.mp3 by hyderpotter -- https://freesound.org/s/80290/ -- ライセンス: Creative Commons 0"
 
-#: src/state/settings-slice.ts:36
+#: src/state/settings-slice.ts
 msgid "Bing Bong"
 msgstr ""
 
-#: app/components/character-controls.tsx:314
-#: app/components/character-controls.tsx:345
-#: app/components/game-controls.tsx:265
-#: app/game-setup.tsx:797
+#: app/components/character-controls.tsx
+#: app/components/character-controls.tsx
+#: app/components/game-controls.tsx
+#: app/game-setup.tsx
 msgid "Cancel"
 msgstr "キャンセル"
 
-#: app/components/character-controls.tsx:262
+#: app/components/character-controls.tsx
 msgid "Change team"
 msgstr "チームを変更"
 
-#: app/components/game-controls.tsx:178
+#: app/components/game-controls.tsx
 msgid "Characters"
 msgstr "キャラクター"
 
-#: app/game-setup.tsx:551
+#: app/game-setup.tsx
 msgid "Characters ({selectedCount} / {playerCount})"
 msgstr "キャラクター ({selectedCount} / {playerCount})"
 
-#: app/components/game-controls.tsx:275
+#: app/components/game-controls.tsx
 msgid "Clear"
 msgstr "クリア"
 
-#: app/components/game-controls.tsx:245
+#: app/components/game-controls.tsx
 msgid "Clear grimoire"
 msgstr "グリモワールをクリア"
 
-#: app/game-setup.tsx:808
+#: app/game-setup.tsx
 msgid "Continue"
 msgstr "続行"
 
-#: app/game-setup.tsx:291
+#: app/game-setup.tsx
 msgid "Custom"
 msgstr "カスタム"
 
-#: app/settings.tsx:176
+#: app/settings.tsx
 msgid "Day Timer (minutes)"
 msgstr "昼のタイマー（分）"
 
-#: app/game-setup.tsx:752
+#: app/game-setup.tsx
 msgid "DEM ({demonCount} / {demonCountTarget})"
 msgstr "デーモン ({demonCount} / {demonCountTarget})"
 
-#: app/components/game-controls.tsx:215
+#: app/components/game-controls.tsx
 msgid "Demon bluffs"
 msgstr "デーモンのブラフ"
 
-#: app/screens/demon-bluffs.tsx:92
+#: app/screens/demon-bluffs.tsx
 msgid "Demon Bluffs"
 msgstr "デーモンのブラフ"
 
-#: app/night-order.tsx:168
+#: app/night-order.tsx
 msgid "Demon Info"
 msgstr "デーモンの情報"
 
-#: app/game-setup.tsx:772
+#: app/game-setup.tsx
 msgid "Draw characters"
 msgstr "キャラクターを引く"
 
-#: app/screens/character-select.tsx:256
+#: app/screens/character-select.tsx
 msgid "Fabled"
 msgstr "寓話"
 
-#: app/game-setup.tsx:729
+#: app/game-setup.tsx
 msgid "Final Counts"
 msgstr "最終的な人数"
 
-#: app/night-order.tsx:226
+#: app/night-order.tsx
 msgid "First Night"
 msgstr "初日の夜"
 
-#: app/components/character-controls.tsx:186
+#: app/components/character-controls.tsx
 msgid "First night:"
 msgstr "初日の夜："
 
-#: app/components/game-controls.tsx:116
+#: app/components/game-controls.tsx
 msgid "Game Info"
 msgstr "ゲーム情報"
 
-#: app/components/game-controls.tsx:225
+#: app/components/game-controls.tsx
 msgid "Game setup"
 msgstr "ゲーム設定"
 
-#: app/game-setup.tsx:716
+#: app/game-setup.tsx
 msgid "Game Setup"
 msgstr "ゲーム設定"
 
-#: src/state/settings-slice.ts:28
+#: src/state/settings-slice.ts
 msgid "Gong"
 msgstr ""
 
-#: app/settings.tsx:215
+#: app/settings.tsx
 msgid "Gong.wav by juskiddink -- https://freesound.org/s/86773/ -- License: Attribution 4.0"
 msgstr "Gong.wav by juskiddink -- https://freesound.org/s/86773/ -- ライセンス: Attribution 4.0"
 
-#: app/draw-characters-instructions.tsx:128
+#: app/draw-characters-instructions.tsx
 msgid "Got it!"
 msgstr "了解！"
 
-#: app/game-setup.tsx:780
+#: app/game-setup.tsx
 msgid "Hide Abilities"
 msgstr "能力を隠す"
 
-#: app/components/game-controls.tsx:205
+#: app/components/game-controls.tsx
 msgid "Info tokens"
 msgstr "情報トークン"
 
-#: app/screens/info-tokens.tsx:183
+#: app/screens/info-tokens.tsx
 msgid "Info Tokens"
 msgstr "情報トークン"
 
-#: app/game-setup.tsx:723
-#: app/screens/character-select.tsx:232
-#: app/show-jinxes.tsx:95
+#: app/game-setup.tsx
+#: app/screens/character-select.tsx
+#: app/show-jinxes.tsx
 msgid "Jinxes"
 msgstr "ジンクス"
 
-#: app/components/character-controls.tsx:245
+#: app/components/character-controls.tsx
 msgid "Kill player"
 msgstr "プレイヤーを殺害"
 
-#: app/settings.tsx:166
+#: app/settings.tsx
 msgid "Language"
 msgstr "言語"
 
-#: src/state/settings-slice.ts:32
+#: src/state/settings-slice.ts
 msgid "Large Benjamin"
 msgstr ""
 
-#: app/screens/reminder-select.tsx:149
+#: app/screens/reminder-select.tsx
 msgid "Long-press to start multi-select mode."
 msgstr "長押しで複数選択モードを開始します。"
 
-#: app/game-setup.tsx:747
+#: app/game-setup.tsx
 msgid "MIN ({minionCount} / {minionCountTarget})"
 msgstr "ミニオン ({minionCount} / {minionCountTarget})"
 
-#: app/night-order.tsx:153
+#: app/night-order.tsx
 msgid "Minion Info"
 msgstr "ミニオンの情報"
 
-#: constants/characters/character-data.ts:109
+#: constants/characters/character-data.ts
 msgid "Must not put the {name} in the bag."
 msgstr ""
 
-#: app/game-setup.tsx:621
+#: app/game-setup.tsx
 msgid "Must select exactly {playerCount} characters."
 msgstr "キャラクターを厳密に{playerCount}人選択する必要があります。"
 
-#: app/components/character-controls.tsx:338
+#: app/components/character-controls.tsx
 msgid "Name"
 msgstr "名前"
 
-#: app/screens/info-tokens.tsx:201
+#: app/screens/info-tokens.tsx
 msgid "New custom info token"
 msgstr "新しいカスタム情報トークン"
 
-#: app/components/game-controls.tsx:195
+#: app/components/game-controls.tsx
 msgid "Night Order"
 msgstr "夜の行動順"
 
-#: app/components/jinxes.tsx:96
+#: app/components/jinxes.tsx
 msgid "No jinxes found."
 msgstr "ジンクスは見つかりませんでした。"
 
-#: src/state/settings-slice.ts:25
+#: src/state/settings-slice.ts
 msgid "None"
 msgstr ""
 
-#: app/components/character-controls.tsx:200
-#: app/game-setup.tsx:493
+#: app/components/character-controls.tsx
+#: app/game-setup.tsx
 msgid "Open wiki"
 msgstr "Wikiを開く"
 
-#: app/night-order.tsx:231
+#: app/night-order.tsx
 msgid "Other Nights"
 msgstr "その他の夜"
 
-#: app/components/character-controls.tsx:194
+#: app/components/character-controls.tsx
 msgid "Other nights:"
 msgstr "その他の夜："
 
-#: app/game-setup.tsx:742
+#: app/game-setup.tsx
 msgid "OUT ({outsiderCount} / {outsiderCountTarget})"
 msgstr "アウトサイダー ({outsiderCount} / {outsiderCountTarget})"
 
-#: app/game-setup.tsx:330
+#: app/game-setup.tsx
 msgid "Players"
 msgstr "プレイヤー"
 
-#: app/game-setup.tsx:610
+#: app/game-setup.tsx
 #~ msgid "Remember setup steps for the {characterName} {rule}"
 #~ msgstr ""
 
-#: app/game-setup.tsx:610
+#: app/game-setup.tsx
 msgid "Remember setup steps for the {characterName}{rule}"
 msgstr "{characterName}のセットアップ手順を覚えておく{rule}"
 
-#: app/components/character-controls.tsx:299
-#: app/components/character-controls.tsx:324
-#: app/components/reminder-controls.tsx:77
+#: app/components/character-controls.tsx
+#: app/components/character-controls.tsx
+#: app/components/reminder-controls.tsx
 msgid "Remove"
 msgstr "削除"
 
-#: app/components/character-controls.tsx:271
-#: app/components/reminder-controls.tsx:71
+#: app/components/character-controls.tsx
+#: app/components/reminder-controls.tsx
 msgid "Replace"
 msgstr "交換"
 
-#: app/night-order.tsx:265
+#: app/night-order.tsx
 msgid "Reset"
 msgstr "リセット"
 
-#: app/components/character-controls.tsx:225
+#: app/components/character-controls.tsx
 msgid "Restore ghost vote"
 msgstr "ゴースト投票を復活"
 
-#: app/components/character-controls.tsx:245
+#: app/components/character-controls.tsx
 msgid "Revive player"
 msgstr "プレイヤーを復活"
 
-#: app/screens/character-select.tsx:267
+#: app/screens/character-select.tsx
 msgid "Search characters."
 msgstr "キャラクターを検索"
 
-#: app/screens/reminder-select.tsx:142
+#: app/screens/reminder-select.tsx
 msgid "Search reminders."
 msgstr "リマインダーを検索"
 
-#: app/game-setup.tsx:301
+#: app/game-setup.tsx
 msgid "Select custom script"
 msgstr "カスタムスクリプトを選択"
 
-#: app/game-setup.tsx:278
+#: app/game-setup.tsx
 msgid "Select Edition"
 msgstr "エディションを選択"
 
-#: app/game-setup.tsx:554
+#: app/game-setup.tsx
 msgid "Select Random"
 msgstr "ランダムに選択"
 
-#: app/components/character-controls.tsx:348
+#: app/components/character-controls.tsx
 msgid "Set name"
 msgstr "名前を設定"
 
-#: app/components/character-controls.tsx:290
-#: app/components/character-controls.tsx:331
+#: app/components/character-controls.tsx
+#: app/components/character-controls.tsx
 msgid "Set player name"
 msgstr "プレイヤー名を設定"
 
-#: app/components/game-controls.tsx:235
-#: app/settings.tsx:159
+#: app/components/game-controls.tsx
+#: app/settings.tsx
 msgid "Settings"
 msgstr "設定"
 
-#: app/game-setup.tsx:437
+#: app/game-setup.tsx
 msgid "Setup"
 msgstr "セットアップ"
 
-#: app/components/character-controls.tsx:279
+#: app/components/character-controls.tsx
 msgid "Show"
 msgstr "表示"
 
-#: app/game-setup.tsx:780
+#: app/game-setup.tsx
 msgid "Show Abilities"
 msgstr "能力を表示"
 
-#: app/night-order.tsx:254
-#: app/screens/reminder-select.tsx:120
-#: app/show-jinxes.tsx:104
+#: app/night-order.tsx
+#: app/screens/reminder-select.tsx
+#: app/show-jinxes.tsx
 msgid "Show all"
 msgstr "すべて表示"
 
-#: app/screens/demon-bluffs.tsx:104
+#: app/screens/demon-bluffs.tsx
 msgid "Show bluffs"
 msgstr "ブラフを表示"
 
-#: app/night-order.tsx:243
+#: app/night-order.tsx
 msgid "Show players"
 msgstr "プレイヤーを表示"
 
-#: app/game-setup.tsx:775
+#: app/game-setup.tsx
 msgid "Skip drawing characters"
 msgstr "キャラクターを引くのをスキップ"
 
-#: app/draw-characters.tsx:134
+#: app/draw-characters.tsx
 msgid "Start the game"
 msgstr "ゲームを開始"
 
-#: app/draw-characters-instructions.tsx:122
+#: app/draw-characters-instructions.tsx
 msgid "Starting with the player to the left of the \"Storyteller's Gap\", call your players up one at a time in clockwise order to draw a character on the following screen."
 msgstr "「ストーリーテラーの隙間」の左隣のプレイヤーから時計回りに一人ずつプレイヤーを呼び出し、次の画面でキャラクターを引かせます。"
 
-#: app/draw-characters-instructions.tsx:119
+#: app/draw-characters-instructions.tsx
 msgid "Storyteller Instructions"
 msgstr "ストーリーテラーの手順"
 
-#: app/settings.tsx:231
+#: app/settings.tsx
 msgid "Support me on Ko-fi!"
 msgstr "Ko-fiでサポート！"
 
-#: app/settings.tsx:210
+#: app/settings.tsx
 msgid "This project uses assets from https://www.freepik.com/. Thanks to macrovector / kotkoa / Freepik!"
 msgstr "このプロジェクトはhttps://www.freepik.com/のアセットを使用しています。macrovector / kotkoa / Freepikに感謝します！"
 
-#: app/contexts/timer-context.tsx:106
+#: app/contexts/timer-context.tsx
 msgid "Time's up!"
 msgstr "時間切れです！"
 
-#: app/settings.tsx:197
+#: app/settings.tsx
 msgid "Timer Alarm"
 msgstr "タイマーアラーム"
 
-#: app/game-setup.tsx:732
+#: app/game-setup.tsx
 msgid "TOTAL ({selectedCount} / {playerCount})"
 msgstr "合計 ({selectedCount} / {playerCount})"
 
-#: app/game-setup.tsx:737
+#: app/game-setup.tsx
 msgid "TOWN ({townsfolkCount} / {townsfolkCountTarget})"
 msgstr "村人 ({townsfolkCount} / {townsfolkCountTarget})"
 
-#: app/game-setup.tsx:758
+#: app/game-setup.tsx
 msgid "TRAV ({travellerCount} / {travellerCountTarget})"
 msgstr "旅人 ({travellerCount} / {travellerCountTarget})"
 
-#: app/screens/character-select.tsx:247
+#: app/screens/character-select.tsx
 msgid "Travellers"
 msgstr "旅人"
 
-#: app/game-setup.tsx:238
+#: app/game-setup.tsx
 msgid "Upload custom script"
 msgstr "カスタムスクリプトをアップロード"
 
-#: app/components/character-controls.tsx:225
+#: app/components/character-controls.tsx
 msgid "Use ghost vote"
 msgstr "ゴースト投票を使用"
 
-#: app/screens/character-select.tsx:237
+#: app/screens/character-select.tsx
 msgid "View Abilities"
 msgstr "能力を見る"
 
-#: app/night-order.tsx:154
+#: app/night-order.tsx
 msgid "Wake all the Minions and show them the Demon."
 msgstr "すべてのミニオンを起こし、デーモンを見せる。"
 
-#: app/night-order.tsx:169
+#: app/night-order.tsx
 msgid "Wake the Demon and show all Minions. Then, show the Demon any three good character tokens that are not in play."
 msgstr "デーモンを起こし、すべてのミニオンを見せる。次に、場に出ていない善良なキャラクターのトークンを3つ見せる。"
 
-#: app/components/draw-character-token.tsx:233
+#: app/components/draw-character-token.tsx
 msgid "What's your name?"
 msgstr "あなたの名前は何ですか？"
 
-#: app/game-setup.tsx:787
+#: app/game-setup.tsx
 msgid "You have setup errors."
 msgstr "セットアップにエラーがあります。"
