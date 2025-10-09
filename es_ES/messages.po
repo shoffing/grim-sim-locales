@@ -54,7 +54,7 @@ msgstr "Añadir recordatorios ({selectedCount})"
 msgid "Are you sure you want to clear the grimoire?"
 msgstr "¿Estás seguro de que quieres borrar el grimorio?"
 
-#: app/game-setup.tsx:791
+#: app/game-setup.tsx:792
 msgid "Are you sure you want to continue?"
 msgstr "¿Estás seguro de que quieres continuar?"
 
@@ -77,7 +77,7 @@ msgstr ""
 #: app/components/character-controls.tsx:314
 #: app/components/character-controls.tsx:345
 #: app/components/game-controls.tsx:265
-#: app/game-setup.tsx:796
+#: app/game-setup.tsx:797
 msgid "Cancel"
 msgstr "Cancelar"
 
@@ -101,7 +101,7 @@ msgstr "Borrar"
 msgid "Clear grimoire"
 msgstr "Borrar grimorio"
 
-#: app/game-setup.tsx:807
+#: app/game-setup.tsx:808
 msgid "Continue"
 msgstr "Continuar"
 
@@ -113,7 +113,7 @@ msgstr "Personalizado"
 msgid "Day Timer (minutes)"
 msgstr "Temporizador de Día (minutos)"
 
-#: app/game-setup.tsx:747
+#: app/game-setup.tsx:752
 msgid "DEM ({demonCount} / {demonCountTarget})"
 msgstr "DEM ({demonCount} / {demonCountTarget})"
 
@@ -129,7 +129,7 @@ msgstr "Faroles del Demonio"
 msgid "Demon Info"
 msgstr "Información del Demonio"
 
-#: app/game-setup.tsx:771
+#: app/game-setup.tsx:772
 msgid "Draw characters"
 msgstr "Robar personajes"
 
@@ -137,7 +137,7 @@ msgstr "Robar personajes"
 msgid "Fabled"
 msgstr "Legendarios"
 
-#: app/game-setup.tsx:724
+#: app/game-setup.tsx:729
 msgid "Final Counts"
 msgstr "Recuentos Finales"
 
@@ -157,7 +157,7 @@ msgstr "Información de la Partida"
 msgid "Game setup"
 msgstr "Configuración de la partida"
 
-#: app/game-setup.tsx:711
+#: app/game-setup.tsx:716
 msgid "Game Setup"
 msgstr "Configuración de la Partida"
 
@@ -173,7 +173,7 @@ msgstr "Gong.wav de juskiddink -- https://freesound.org/s/86773/ -- Licencia: Re
 msgid "Got it!"
 msgstr "¡Entendido!"
 
-#: app/game-setup.tsx:779
+#: app/game-setup.tsx:780
 msgid "Hide Abilities"
 msgstr "Ocultar Habilidades"
 
@@ -185,7 +185,7 @@ msgstr "Fichas de información"
 msgid "Info Tokens"
 msgstr "Fichas de Información"
 
-#: app/game-setup.tsx:718
+#: app/game-setup.tsx:723
 #: app/screens/character-select.tsx:232
 #: app/show-jinxes.tsx:95
 msgid "Jinxes"
@@ -207,7 +207,7 @@ msgstr ""
 msgid "Long-press to start multi-select mode."
 msgstr "Mantén pulsado para iniciar el modo de selección múltiple."
 
-#: app/game-setup.tsx:742
+#: app/game-setup.tsx:747
 msgid "MIN ({minionCount} / {minionCountTarget})"
 msgstr "MIN ({minionCount} / {minionCountTarget})"
 
@@ -256,7 +256,7 @@ msgstr "Otras Noches"
 msgid "Other nights:"
 msgstr "Otras noches:"
 
-#: app/game-setup.tsx:737
+#: app/game-setup.tsx:742
 msgid "OUT ({outsiderCount} / {outsiderCountTarget})"
 msgstr "OUT ({outsiderCount} / {outsiderCountTarget})"
 
@@ -337,7 +337,7 @@ msgstr "Configuración"
 msgid "Show"
 msgstr "Mostrar"
 
-#: app/game-setup.tsx:779
+#: app/game-setup.tsx:780
 msgid "Show Abilities"
 msgstr "Mostrar Habilidades"
 
@@ -355,7 +355,7 @@ msgstr "Mostrar faroles"
 msgid "Show players"
 msgstr "Mostrar jugadores"
 
-#: app/game-setup.tsx:774
+#: app/game-setup.tsx:775
 msgid "Skip drawing characters"
 msgstr "Omitir la selección de personajes"
 
@@ -387,15 +387,15 @@ msgstr "¡Se acabó el tiempo!"
 msgid "Timer Alarm"
 msgstr "Alarma del Temporizador"
 
-#: app/game-setup.tsx:727
+#: app/game-setup.tsx:732
 msgid "TOTAL ({selectedCount} / {playerCount})"
 msgstr "TOTAL ({selectedCount} / {playerCount})"
 
-#: app/game-setup.tsx:732
+#: app/game-setup.tsx:737
 msgid "TOWN ({townsfolkCount} / {townsfolkCountTarget})"
 msgstr "TOWN ({townsfolkCount} / {townsfolkCountTarget})"
 
-#: app/game-setup.tsx:753
+#: app/game-setup.tsx:758
 msgid "TRAV ({travellerCount} / {travellerCountTarget})"
 msgstr "TRAV ({travellerCount} / {travellerCountTarget})"
 
@@ -427,6 +427,6 @@ msgstr "Despierta al Demonio y muéstrale a todos los Súbditos. Luego, muéstra
 msgid "What's your name?"
 msgstr "¿Cómo te llamas?"
 
-#: app/game-setup.tsx:786
+#: app/game-setup.tsx:787
 msgid "You have setup errors."
 msgstr "Tienes errores de configuración."

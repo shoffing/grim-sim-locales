@@ -54,7 +54,7 @@ msgstr "リマインダーを追加 ({selectedCount})"
 msgid "Are you sure you want to clear the grimoire?"
 msgstr "グリモワールをクリアしてもよろしいですか？"
 
-#: app/game-setup.tsx:791
+#: app/game-setup.tsx:792
 msgid "Are you sure you want to continue?"
 msgstr "続行してもよろしいですか？"
 
@@ -77,7 +77,7 @@ msgstr ""
 #: app/components/character-controls.tsx:314
 #: app/components/character-controls.tsx:345
 #: app/components/game-controls.tsx:265
-#: app/game-setup.tsx:796
+#: app/game-setup.tsx:797
 msgid "Cancel"
 msgstr "キャンセル"
 
@@ -101,7 +101,7 @@ msgstr "クリア"
 msgid "Clear grimoire"
 msgstr "グリモワールをクリア"
 
-#: app/game-setup.tsx:807
+#: app/game-setup.tsx:808
 msgid "Continue"
 msgstr "続行"
 
@@ -113,7 +113,7 @@ msgstr "カスタム"
 msgid "Day Timer (minutes)"
 msgstr "昼のタイマー（分）"
 
-#: app/game-setup.tsx:747
+#: app/game-setup.tsx:752
 msgid "DEM ({demonCount} / {demonCountTarget})"
 msgstr "デーモン ({demonCount} / {demonCountTarget})"
 
@@ -129,7 +129,7 @@ msgstr "デーモンのブラフ"
 msgid "Demon Info"
 msgstr "デーモンの情報"
 
-#: app/game-setup.tsx:771
+#: app/game-setup.tsx:772
 msgid "Draw characters"
 msgstr "キャラクターを引く"
 
@@ -137,7 +137,7 @@ msgstr "キャラクターを引く"
 msgid "Fabled"
 msgstr "寓話"
 
-#: app/game-setup.tsx:724
+#: app/game-setup.tsx:729
 msgid "Final Counts"
 msgstr "最終的な人数"
 
@@ -157,7 +157,7 @@ msgstr "ゲーム情報"
 msgid "Game setup"
 msgstr "ゲーム設定"
 
-#: app/game-setup.tsx:711
+#: app/game-setup.tsx:716
 msgid "Game Setup"
 msgstr "ゲーム設定"
 
@@ -173,7 +173,7 @@ msgstr "Gong.wav by juskiddink -- https://freesound.org/s/86773/ -- ライセン
 msgid "Got it!"
 msgstr "了解！"
 
-#: app/game-setup.tsx:779
+#: app/game-setup.tsx:780
 msgid "Hide Abilities"
 msgstr "能力を隠す"
 
@@ -185,7 +185,7 @@ msgstr "情報トークン"
 msgid "Info Tokens"
 msgstr "情報トークン"
 
-#: app/game-setup.tsx:718
+#: app/game-setup.tsx:723
 #: app/screens/character-select.tsx:232
 #: app/show-jinxes.tsx:95
 msgid "Jinxes"
@@ -207,7 +207,7 @@ msgstr ""
 msgid "Long-press to start multi-select mode."
 msgstr "長押しで複数選択モードを開始します。"
 
-#: app/game-setup.tsx:742
+#: app/game-setup.tsx:747
 msgid "MIN ({minionCount} / {minionCountTarget})"
 msgstr "ミニオン ({minionCount} / {minionCountTarget})"
 
@@ -256,7 +256,7 @@ msgstr "その他の夜"
 msgid "Other nights:"
 msgstr "その他の夜："
 
-#: app/game-setup.tsx:737
+#: app/game-setup.tsx:742
 msgid "OUT ({outsiderCount} / {outsiderCountTarget})"
 msgstr "アウトサイダー ({outsiderCount} / {outsiderCountTarget})"
 
@@ -337,7 +337,7 @@ msgstr "セットアップ"
 msgid "Show"
 msgstr "表示"
 
-#: app/game-setup.tsx:779
+#: app/game-setup.tsx:780
 msgid "Show Abilities"
 msgstr "能力を表示"
 
@@ -355,7 +355,7 @@ msgstr "ブラフを表示"
 msgid "Show players"
 msgstr "プレイヤーを表示"
 
-#: app/game-setup.tsx:774
+#: app/game-setup.tsx:775
 msgid "Skip drawing characters"
 msgstr "キャラクターを引くのをスキップ"
 
@@ -387,15 +387,15 @@ msgstr "時間切れです！"
 msgid "Timer Alarm"
 msgstr "タイマーアラーム"
 
-#: app/game-setup.tsx:727
+#: app/game-setup.tsx:732
 msgid "TOTAL ({selectedCount} / {playerCount})"
 msgstr "合計 ({selectedCount} / {playerCount})"
 
-#: app/game-setup.tsx:732
+#: app/game-setup.tsx:737
 msgid "TOWN ({townsfolkCount} / {townsfolkCountTarget})"
 msgstr "村人 ({townsfolkCount} / {townsfolkCountTarget})"
 
-#: app/game-setup.tsx:753
+#: app/game-setup.tsx:758
 msgid "TRAV ({travellerCount} / {travellerCountTarget})"
 msgstr "旅人 ({travellerCount} / {travellerCountTarget})"
 
@@ -427,6 +427,6 @@ msgstr "デーモンを起こし、すべてのミニオンを見せる。次に
 msgid "What's your name?"
 msgstr "あなたの名前は何ですか？"
 
-#: app/game-setup.tsx:786
+#: app/game-setup.tsx:787
 msgid "You have setup errors."
 msgstr "セットアップにエラーがあります。"

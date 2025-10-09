@@ -54,7 +54,7 @@ msgstr "Add Reminders ({selectedCount})"
 msgid "Are you sure you want to clear the grimoire?"
 msgstr "Are you sure you want to clear the grimoire?"
 
-#: app/game-setup.tsx:791
+#: app/game-setup.tsx:792
 msgid "Are you sure you want to continue?"
 msgstr "Are you sure you want to continue?"
 
@@ -77,7 +77,7 @@ msgstr "Bing Bong"
 #: app/components/character-controls.tsx:314
 #: app/components/character-controls.tsx:345
 #: app/components/game-controls.tsx:265
-#: app/game-setup.tsx:796
+#: app/game-setup.tsx:797
 msgid "Cancel"
 msgstr "Cancel"
 
@@ -101,7 +101,7 @@ msgstr "Clear"
 msgid "Clear grimoire"
 msgstr "Clear grimoire"
 
-#: app/game-setup.tsx:807
+#: app/game-setup.tsx:808
 msgid "Continue"
 msgstr "Continue"
 
@@ -113,7 +113,7 @@ msgstr "Custom"
 msgid "Day Timer (minutes)"
 msgstr "Day Timer (minutes)"
 
-#: app/game-setup.tsx:747
+#: app/game-setup.tsx:752
 msgid "DEM ({demonCount} / {demonCountTarget})"
 msgstr "DEM ({demonCount} / {demonCountTarget})"
 
@@ -129,7 +129,7 @@ msgstr "Demon Bluffs"
 msgid "Demon Info"
 msgstr "Demon Info"
 
-#: app/game-setup.tsx:771
+#: app/game-setup.tsx:772
 msgid "Draw characters"
 msgstr "Draw characters"
 
@@ -137,7 +137,7 @@ msgstr "Draw characters"
 msgid "Fabled"
 msgstr "Fabled"
 
-#: app/game-setup.tsx:724
+#: app/game-setup.tsx:729
 msgid "Final Counts"
 msgstr "Final Counts"
 
@@ -157,7 +157,7 @@ msgstr "Game Info"
 msgid "Game setup"
 msgstr "Game setup"
 
-#: app/game-setup.tsx:711
+#: app/game-setup.tsx:716
 msgid "Game Setup"
 msgstr "Game Setup"
 
@@ -173,7 +173,7 @@ msgstr "Gong.wav by juskiddink -- https://freesound.org/s/86773/ -- License: Att
 msgid "Got it!"
 msgstr "Got it!"
 
-#: app/game-setup.tsx:779
+#: app/game-setup.tsx:780
 msgid "Hide Abilities"
 msgstr "Hide Abilities"
 
@@ -185,7 +185,7 @@ msgstr "Info tokens"
 msgid "Info Tokens"
 msgstr "Info Tokens"
 
-#: app/game-setup.tsx:718
+#: app/game-setup.tsx:723
 #: app/screens/character-select.tsx:232
 #: app/show-jinxes.tsx:95
 msgid "Jinxes"
@@ -207,7 +207,7 @@ msgstr "Large Benjamin"
 msgid "Long-press to start multi-select mode."
 msgstr "Long-press to start multi-select mode."
 
-#: app/game-setup.tsx:742
+#: app/game-setup.tsx:747
 msgid "MIN ({minionCount} / {minionCountTarget})"
 msgstr "MIN ({minionCount} / {minionCountTarget})"
 
@@ -256,7 +256,7 @@ msgstr "Other Nights"
 msgid "Other nights:"
 msgstr "Other nights:"
 
-#: app/game-setup.tsx:737
+#: app/game-setup.tsx:742
 msgid "OUT ({outsiderCount} / {outsiderCountTarget})"
 msgstr "OUT ({outsiderCount} / {outsiderCountTarget})"
 
@@ -337,7 +337,7 @@ msgstr "Setup"
 msgid "Show"
 msgstr "Show"
 
-#: app/game-setup.tsx:779
+#: app/game-setup.tsx:780
 msgid "Show Abilities"
 msgstr "Show Abilities"
 
@@ -355,7 +355,7 @@ msgstr "Show bluffs"
 msgid "Show players"
 msgstr "Show players"
 
-#: app/game-setup.tsx:774
+#: app/game-setup.tsx:775
 msgid "Skip drawing characters"
 msgstr "Skip drawing characters"
 
@@ -387,15 +387,15 @@ msgstr "Time's up!"
 msgid "Timer Alarm"
 msgstr "Timer Alarm"
 
-#: app/game-setup.tsx:727
+#: app/game-setup.tsx:732
 msgid "TOTAL ({selectedCount} / {playerCount})"
 msgstr "TOTAL ({selectedCount} / {playerCount})"
 
-#: app/game-setup.tsx:732
+#: app/game-setup.tsx:737
 msgid "TOWN ({townsfolkCount} / {townsfolkCountTarget})"
 msgstr "TOWN ({townsfolkCount} / {townsfolkCountTarget})"
 
-#: app/game-setup.tsx:753
+#: app/game-setup.tsx:758
 msgid "TRAV ({travellerCount} / {travellerCountTarget})"
 msgstr "TRAV ({travellerCount} / {travellerCountTarget})"
 
@@ -427,6 +427,6 @@ msgstr "Wake the Demon and show all Minions. Then, show the Demon any three good
 msgid "What's your name?"
 msgstr "What's your name?"
 
-#: app/game-setup.tsx:786
+#: app/game-setup.tsx:787
 msgid "You have setup errors."
 msgstr "You have setup errors."
