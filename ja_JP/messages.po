@@ -101,6 +101,10 @@ msgstr "クリア"
 msgid "Clear grimoire"
 msgstr "グリモワールをクリア"
 
+#: app/components/character-controls.tsx
+msgid "Clear Mark"
+msgstr ""
+
 #: app/game-setup.tsx
 msgid "Continue"
 msgstr "続行"
@@ -177,6 +181,10 @@ msgstr "了解！"
 msgid "Hide Abilities"
 msgstr "能力を隠す"
 
+#: app/components/character-controls.tsx
+msgid "How many votes?"
+msgstr ""
+
 #: app/components/game-controls.tsx
 msgid "Info tokens"
 msgstr "情報トークン"
@@ -206,6 +214,10 @@ msgstr ""
 #: app/screens/reminder-select.tsx
 msgid "Long-press to start multi-select mode."
 msgstr "長押しで複数選択モードを開始します。"
+
+#: app/components/character-controls.tsx
+msgid "Mark for Execution"
+msgstr ""
 
 #: app/game-setup.tsx
 msgid "MIN ({minionCount} / {minionCountTarget})"

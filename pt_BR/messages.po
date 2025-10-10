@@ -101,6 +101,10 @@ msgstr "Limpar"
 msgid "Clear grimoire"
 msgstr "Limpar grimório"
 
+#: app/components/character-controls.tsx
+msgid "Clear Mark"
+msgstr ""
+
 #: app/game-setup.tsx
 msgid "Continue"
 msgstr "Continuar"
@@ -177,6 +181,10 @@ msgstr "Entendi!"
 msgid "Hide Abilities"
 msgstr "Ocultar Habilidades"
 
+#: app/components/character-controls.tsx
+msgid "How many votes?"
+msgstr ""
+
 #: app/components/game-controls.tsx
 msgid "Info tokens"
 msgstr "Fichas de informação"
@@ -206,6 +214,10 @@ msgstr ""
 #: app/screens/reminder-select.tsx
 msgid "Long-press to start multi-select mode."
 msgstr "Pressione e segure para iniciar o modo de seleção múltipla."
+
+#: app/components/character-controls.tsx
+msgid "Mark for Execution"
+msgstr ""
 
 #: app/game-setup.tsx
 msgid "MIN ({minionCount} / {minionCountTarget})"

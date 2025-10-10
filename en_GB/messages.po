@@ -101,6 +101,10 @@ msgstr "Clear"
 msgid "Clear grimoire"
 msgstr "Clear grimoire"
 
+#: app/components/character-controls.tsx
+msgid "Clear Mark"
+msgstr "Clear Mark"
+
 #: app/game-setup.tsx
 msgid "Continue"
 msgstr "Continue"
@@ -177,6 +181,10 @@ msgstr "Got it!"
 msgid "Hide Abilities"
 msgstr "Hide Abilities"
 
+#: app/components/character-controls.tsx
+msgid "How many votes?"
+msgstr "How many votes?"
+
 #: app/components/game-controls.tsx
 msgid "Info tokens"
 msgstr "Info tokens"
@@ -206,6 +214,10 @@ msgstr "Large Benjamin"
 #: app/screens/reminder-select.tsx
 msgid "Long-press to start multi-select mode."
 msgstr "Long-press to start multi-select mode."
+
+#: app/components/character-controls.tsx
+msgid "Mark for Execution"
+msgstr "Mark for Execution"
 
 #: app/game-setup.tsx
 msgid "MIN ({minionCount} / {minionCountTarget})"
