@@ -70,12 +70,20 @@ msgstr "クレジット"
 msgid "Back to Game Setup"
 msgstr ""
 
+#: app/script.tsx
+msgid "Bad Moon Rising"
+msgstr ""
+
 #: app/settings.tsx
 msgid "BigBenstrikes.mp3 by hyderpotter -- https://freesound.org/s/80290/ -- License: Creative Commons 0"
 msgstr "BigBenstrikes.mp3 by hyderpotter -- https://freesound.org/s/80290/ -- ライセンス: Creative Commons 0"
 
 #: src/state/settings-slice.ts
 msgid "Bing Bong"
+msgstr ""
+
+#: app/script.tsx
+msgid "By {scriptAuthor}"
 msgstr ""
 
 #: app/components/character-controls.tsx
@@ -136,6 +144,10 @@ msgstr "デーモンのブラフ"
 #: app/night-order.tsx
 msgid "Demon Info"
 msgstr "デーモンの情報"
+
+#: app/script.tsx
+msgid "Demons"
+msgstr ""
 
 #: app/game-setup/index.tsx
 msgid "Draw characters"
@@ -199,6 +211,7 @@ msgstr "情報トークン"
 
 #: app/game-setup/index.tsx
 #: app/screens/character-select.tsx
+#: app/script.tsx
 #: app/show-jinxes.tsx
 msgid "Jinxes"
 msgstr "ジンクス"
@@ -230,6 +243,10 @@ msgstr "ミニオン ({minionCount} / {minionCountTarget})"
 #: app/night-order.tsx
 msgid "Minion Info"
 msgstr "ミニオンの情報"
+
+#: app/script.tsx
+msgid "Minions"
+msgstr ""
 
 #: constants/characters/character-data.ts
 msgid "Must not put the {name} in the bag."
@@ -276,6 +293,10 @@ msgstr "その他の夜："
 msgid "OUT ({outsiderCount} / {outsiderCountTarget})"
 msgstr "アウトサイダー ({outsiderCount} / {outsiderCountTarget})"
 
+#: app/script.tsx
+msgid "Outsiders"
+msgstr ""
+
 #: app/game-setup/index.tsx
 msgid "Players"
 msgstr "プレイヤー"
@@ -312,8 +333,8 @@ msgid "Revive player"
 msgstr "プレイヤーを復活"
 
 #: app/script.tsx
-msgid "Script toooool!"
-msgstr ""
+#~ msgid "Script toooool!"
+#~ msgstr ""
 
 #: app/screens/character-select.tsx
 msgid "Search characters."
@@ -322,6 +343,10 @@ msgstr "キャラクターを検索"
 #: app/screens/reminder-select.tsx
 msgid "Search reminders."
 msgstr "リマインダーを検索"
+
+#: app/script.tsx
+msgid "Sects and Violets"
+msgstr ""
 
 #: app/game-setup/index.tsx
 msgid "Select custom script"
@@ -399,6 +424,12 @@ msgstr "ストーリーテラーの手順"
 msgid "Support me on Ko-fi!"
 msgstr "Ko-fiでサポート！"
 
+#: app/script.tsx
+#: app/script.tsx
+#: app/script.tsx
+msgid "The Pandemonium Institute"
+msgstr ""
+
 #: app/settings.tsx
 msgid "This project uses assets from https://www.freepik.com/. Thanks to macrovector / kotkoa / Freepik!"
 msgstr "このプロジェクトはhttps://www.freepik.com/のアセットを使用しています。macrovector / kotkoa / Freepikに感謝します！"
@@ -419,6 +450,10 @@ msgstr "合計 ({selectedCount} / {playerCount})"
 msgid "TOWN ({townsfolkCount} / {townsfolkCountTarget})"
 msgstr "村人 ({townsfolkCount} / {townsfolkCountTarget})"
 
+#: app/script.tsx
+msgid "Townsfolk"
+msgstr ""
+
 #: app/game-setup/index.tsx
 msgid "TRAV ({travellerCount} / {travellerCountTarget})"
 msgstr "旅人 ({travellerCount} / {travellerCountTarget})"
@@ -426,6 +461,10 @@ msgstr "旅人 ({travellerCount} / {travellerCountTarget})"
 #: app/screens/character-select.tsx
 msgid "Travellers"
 msgstr "旅人"
+
+#: app/script.tsx
+msgid "Trouble Brewing"
+msgstr ""
 
 #: app/game-setup/index.tsx
 msgid "Upload custom script"

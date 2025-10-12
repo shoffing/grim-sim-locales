@@ -70,12 +70,20 @@ msgstr ""
 msgid "Back to Game Setup"
 msgstr ""
 
+#: app/script.tsx
+msgid "Bad Moon Rising"
+msgstr ""
+
 #: app/settings.tsx
 msgid "BigBenstrikes.mp3 by hyderpotter -- https://freesound.org/s/80290/ -- License: Creative Commons 0"
 msgstr ""
 
 #: src/state/settings-slice.ts
 msgid "Bing Bong"
+msgstr ""
+
+#: app/script.tsx
+msgid "By {scriptAuthor}"
 msgstr ""
 
 #: app/components/character-controls.tsx
@@ -135,6 +143,10 @@ msgstr ""
 
 #: app/night-order.tsx
 msgid "Demon Info"
+msgstr ""
+
+#: app/script.tsx
+msgid "Demons"
 msgstr ""
 
 #: app/game-setup/index.tsx
@@ -199,6 +211,7 @@ msgstr ""
 
 #: app/game-setup/index.tsx
 #: app/screens/character-select.tsx
+#: app/script.tsx
 #: app/show-jinxes.tsx
 msgid "Jinxes"
 msgstr ""
@@ -229,6 +242,10 @@ msgstr ""
 
 #: app/night-order.tsx
 msgid "Minion Info"
+msgstr ""
+
+#: app/script.tsx
+msgid "Minions"
 msgstr ""
 
 #: constants/characters/character-data.ts
@@ -276,6 +293,10 @@ msgstr ""
 msgid "OUT ({outsiderCount} / {outsiderCountTarget})"
 msgstr ""
 
+#: app/script.tsx
+msgid "Outsiders"
+msgstr ""
+
 #: app/game-setup/index.tsx
 msgid "Players"
 msgstr ""
@@ -312,8 +333,8 @@ msgid "Revive player"
 msgstr ""
 
 #: app/script.tsx
-msgid "Script toooool!"
-msgstr ""
+#~ msgid "Script toooool!"
+#~ msgstr ""
 
 #: app/screens/character-select.tsx
 msgid "Search characters."
@@ -321,6 +342,10 @@ msgstr ""
 
 #: app/screens/reminder-select.tsx
 msgid "Search reminders."
+msgstr ""
+
+#: app/script.tsx
+msgid "Sects and Violets"
 msgstr ""
 
 #: app/game-setup/index.tsx
@@ -399,6 +424,12 @@ msgstr ""
 msgid "Support me on Ko-fi!"
 msgstr ""
 
+#: app/script.tsx
+#: app/script.tsx
+#: app/script.tsx
+msgid "The Pandemonium Institute"
+msgstr ""
+
 #: app/settings.tsx
 msgid "This project uses assets from https://www.freepik.com/. Thanks to macrovector / kotkoa / Freepik!"
 msgstr ""
@@ -419,12 +450,20 @@ msgstr ""
 msgid "TOWN ({townsfolkCount} / {townsfolkCountTarget})"
 msgstr ""
 
+#: app/script.tsx
+msgid "Townsfolk"
+msgstr ""
+
 #: app/game-setup/index.tsx
 msgid "TRAV ({travellerCount} / {travellerCountTarget})"
 msgstr ""
 
 #: app/screens/character-select.tsx
 msgid "Travellers"
+msgstr ""
+
+#: app/script.tsx
+msgid "Trouble Brewing"
 msgstr ""
 
 #: app/game-setup/index.tsx
