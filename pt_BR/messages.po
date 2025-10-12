@@ -54,7 +54,7 @@ msgstr "Adicionar Lembretes ({selectedCount})"
 msgid "Are you sure you want to clear the grimoire?"
 msgstr "Tem certeza que deseja limpar o grimório?"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Are you sure you want to continue?"
 msgstr "Tem certeza que deseja continuar?"
 
@@ -65,6 +65,10 @@ msgstr "Tem certeza que deseja remover este personagem?"
 #: app/settings.tsx
 msgid "Attributions"
 msgstr "Atribuições"
+
+#: app/game-setup/share-script.tsx
+msgid "Back to Game Setup"
+msgstr ""
 
 #: app/settings.tsx
 msgid "BigBenstrikes.mp3 by hyderpotter -- https://freesound.org/s/80290/ -- License: Creative Commons 0"
@@ -77,7 +81,7 @@ msgstr ""
 #: app/components/character-controls.tsx
 #: app/components/character-controls.tsx
 #: app/components/game-controls.tsx
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Cancel"
 msgstr "Cancelar"
 
@@ -89,7 +93,7 @@ msgstr "Mudar time"
 msgid "Characters"
 msgstr "Personagens"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Characters ({selectedCount} / {playerCount})"
 msgstr "Personagens ({selectedCount} / {playerCount})"
 
@@ -105,11 +109,11 @@ msgstr "Limpar grimório"
 msgid "Clear Mark"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Continue"
 msgstr "Continuar"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Custom"
 msgstr "Personalizado"
 
@@ -117,7 +121,7 @@ msgstr "Personalizado"
 msgid "Day Timer (minutes)"
 msgstr "Temporizador do Dia (minutos)"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "DEM ({demonCount} / {demonCountTarget})"
 msgstr "DEM ({demonCount} / {demonCountTarget})"
 
@@ -133,7 +137,7 @@ msgstr "Blefes do Demônio"
 msgid "Demon Info"
 msgstr "Informações do Demônio"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Draw characters"
 msgstr "Sortear personagens"
 
@@ -141,7 +145,7 @@ msgstr "Sortear personagens"
 msgid "Fabled"
 msgstr "Lendários"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Final Counts"
 msgstr "Contagens Finais"
 
@@ -161,7 +165,7 @@ msgstr "Informações do Jogo"
 msgid "Game setup"
 msgstr "Configuração do jogo"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Game Setup"
 msgstr "Configuração do Jogo"
 
@@ -177,7 +181,7 @@ msgstr "Gong.wav por juskiddink -- https://freesound.org/s/86773/ -- Licença: A
 msgid "Got it!"
 msgstr "Entendi!"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Hide Abilities"
 msgstr "Ocultar Habilidades"
 
@@ -193,7 +197,7 @@ msgstr "Fichas de informação"
 msgid "Info Tokens"
 msgstr "Fichas de Informação"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 #: app/screens/character-select.tsx
 #: app/show-jinxes.tsx
 msgid "Jinxes"
@@ -219,7 +223,7 @@ msgstr "Pressione e segure para iniciar o modo de seleção múltipla."
 msgid "Mark for Execution"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "MIN ({minionCount} / {minionCountTarget})"
 msgstr "MIN ({minionCount} / {minionCountTarget})"
 
@@ -231,7 +235,7 @@ msgstr "Informações do Súbdito"
 msgid "Must not put the {name} in the bag."
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Must select exactly {playerCount} characters."
 msgstr "Deve selecionar exatamente {playerCount} personagens."
 
@@ -256,7 +260,7 @@ msgid "None"
 msgstr ""
 
 #: app/components/character-controls.tsx
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Open wiki"
 msgstr "Abrir wiki"
 
@@ -268,11 +272,11 @@ msgstr "Outras Noites"
 msgid "Other nights:"
 msgstr "Outras noites:"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "OUT ({outsiderCount} / {outsiderCountTarget})"
 msgstr "OUT ({outsiderCount} / {outsiderCountTarget})"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Players"
 msgstr "Jogadores"
 
@@ -280,7 +284,7 @@ msgstr "Jogadores"
 #~ msgid "Remember setup steps for the {characterName} {rule}"
 #~ msgstr "Lembrar passos de configuração para {rule} do personagem {characterName}"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Remember setup steps for the {characterName}{rule}"
 msgstr ""
 
@@ -307,6 +311,10 @@ msgstr "Restaurar voto fantasma"
 msgid "Revive player"
 msgstr "Reviver jogador"
 
+#: app/script.tsx
+msgid "Script toooool!"
+msgstr ""
+
 #: app/screens/character-select.tsx
 msgid "Search characters."
 msgstr "Buscar personagens."
@@ -315,15 +323,15 @@ msgstr "Buscar personagens."
 msgid "Search reminders."
 msgstr "Buscar lembretes."
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Select custom script"
 msgstr "Selecionar roteiro personalizado"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Select Edition"
 msgstr "Selecionar Edição"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Select Random"
 msgstr "Selecionar Aleatório"
 
@@ -341,15 +349,19 @@ msgstr "Definir nome do jogador"
 msgid "Settings"
 msgstr "Configurações"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Setup"
 msgstr "Configuração"
+
+#: app/game-setup/index.tsx
+msgid "Share script"
+msgstr ""
 
 #: app/components/character-controls.tsx
 msgid "Show"
 msgstr "Mostrar"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Show Abilities"
 msgstr "Mostrar Habilidades"
 
@@ -367,7 +379,7 @@ msgstr "Mostrar blefes"
 msgid "Show players"
 msgstr "Mostrar jogadores"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Skip drawing characters"
 msgstr "Pular sorteio de personagens"
 
@@ -399,15 +411,15 @@ msgstr "Acabou o tempo!"
 msgid "Timer Alarm"
 msgstr "Alarme do Temporizador"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "TOTAL ({selectedCount} / {playerCount})"
 msgstr "TOTAL ({selectedCount} / {playerCount})"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "TOWN ({townsfolkCount} / {townsfolkCountTarget})"
 msgstr "TOWN ({townsfolkCount} / {townsfolkCountTarget})"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "TRAV ({travellerCount} / {travellerCountTarget})"
 msgstr "TRAV ({travellerCount} / {travellerCountTarget})"
 
@@ -415,7 +427,7 @@ msgstr "TRAV ({travellerCount} / {travellerCountTarget})"
 msgid "Travellers"
 msgstr "Viajantes"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Upload custom script"
 msgstr "Carregar roteiro personalizado"
 
@@ -439,6 +451,6 @@ msgstr "Acorde o Demônio e mostre-lhe todos os Súbditos. Em seguida, mostre ao
 msgid "What's your name?"
 msgstr "Qual é o seu nome?"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "You have setup errors."
 msgstr "Você tem erros de configuração."

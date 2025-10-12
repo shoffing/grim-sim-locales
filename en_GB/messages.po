@@ -54,7 +54,7 @@ msgstr "Add Reminders ({selectedCount})"
 msgid "Are you sure you want to clear the grimoire?"
 msgstr "Are you sure you want to clear the grimoire?"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Are you sure you want to continue?"
 msgstr "Are you sure you want to continue?"
 
@@ -65,6 +65,10 @@ msgstr "Are you sure you want to remove this character?"
 #: app/settings.tsx
 msgid "Attributions"
 msgstr "Attributions"
+
+#: app/game-setup/share-script.tsx
+msgid "Back to Game Setup"
+msgstr "Back to Game Setup"
 
 #: app/settings.tsx
 msgid "BigBenstrikes.mp3 by hyderpotter -- https://freesound.org/s/80290/ -- License: Creative Commons 0"
@@ -77,7 +81,7 @@ msgstr "Bing Bong"
 #: app/components/character-controls.tsx
 #: app/components/character-controls.tsx
 #: app/components/game-controls.tsx
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Cancel"
 msgstr "Cancel"
 
@@ -89,7 +93,7 @@ msgstr "Change team"
 msgid "Characters"
 msgstr "Characters"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Characters ({selectedCount} / {playerCount})"
 msgstr "Characters ({selectedCount} / {playerCount})"
 
@@ -105,11 +109,11 @@ msgstr "Clear grimoire"
 msgid "Clear Mark"
 msgstr "Clear Mark"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Continue"
 msgstr "Continue"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Custom"
 msgstr "Custom"
 
@@ -117,7 +121,7 @@ msgstr "Custom"
 msgid "Day Timer (minutes)"
 msgstr "Day Timer (minutes)"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "DEM ({demonCount} / {demonCountTarget})"
 msgstr "DEM ({demonCount} / {demonCountTarget})"
 
@@ -133,7 +137,7 @@ msgstr "Demon Bluffs"
 msgid "Demon Info"
 msgstr "Demon Info"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Draw characters"
 msgstr "Draw characters"
 
@@ -141,7 +145,7 @@ msgstr "Draw characters"
 msgid "Fabled"
 msgstr "Fabled"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Final Counts"
 msgstr "Final Counts"
 
@@ -161,7 +165,7 @@ msgstr "Game Info"
 msgid "Game setup"
 msgstr "Game setup"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Game Setup"
 msgstr "Game Setup"
 
@@ -177,7 +181,7 @@ msgstr "Gong.wav by juskiddink -- https://freesound.org/s/86773/ -- License: Att
 msgid "Got it!"
 msgstr "Got it!"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Hide Abilities"
 msgstr "Hide Abilities"
 
@@ -193,7 +197,7 @@ msgstr "Info tokens"
 msgid "Info Tokens"
 msgstr "Info Tokens"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 #: app/screens/character-select.tsx
 #: app/show-jinxes.tsx
 msgid "Jinxes"
@@ -219,7 +223,7 @@ msgstr "Long-press to start multi-select mode."
 msgid "Mark for Execution"
 msgstr "Mark for Execution"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "MIN ({minionCount} / {minionCountTarget})"
 msgstr "MIN ({minionCount} / {minionCountTarget})"
 
@@ -231,7 +235,7 @@ msgstr "Minion Info"
 msgid "Must not put the {name} in the bag."
 msgstr "Must not put the {name} in the bag."
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Must select exactly {playerCount} characters."
 msgstr "Must select exactly {playerCount} characters."
 
@@ -256,7 +260,7 @@ msgid "None"
 msgstr "None"
 
 #: app/components/character-controls.tsx
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Open wiki"
 msgstr "Open wiki"
 
@@ -268,11 +272,11 @@ msgstr "Other Nights"
 msgid "Other nights:"
 msgstr "Other nights:"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "OUT ({outsiderCount} / {outsiderCountTarget})"
 msgstr "OUT ({outsiderCount} / {outsiderCountTarget})"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Players"
 msgstr "Players"
 
@@ -280,7 +284,7 @@ msgstr "Players"
 #~ msgid "Remember setup steps for the {characterName} {rule}"
 #~ msgstr "Remember setup steps for the {characterName} {rule}"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Remember setup steps for the {characterName}{rule}"
 msgstr "Remember setup steps for the {characterName}{rule}"
 
@@ -307,6 +311,10 @@ msgstr "Restore ghost vote"
 msgid "Revive player"
 msgstr "Revive player"
 
+#: app/script.tsx
+msgid "Script toooool!"
+msgstr "Script toooool!"
+
 #: app/screens/character-select.tsx
 msgid "Search characters."
 msgstr "Search characters."
@@ -315,15 +323,15 @@ msgstr "Search characters."
 msgid "Search reminders."
 msgstr "Search reminders."
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Select custom script"
 msgstr "Select custom script"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Select Edition"
 msgstr "Select Edition"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Select Random"
 msgstr "Select Random"
 
@@ -341,15 +349,19 @@ msgstr "Set player name"
 msgid "Settings"
 msgstr "Settings"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Setup"
 msgstr "Setup"
+
+#: app/game-setup/index.tsx
+msgid "Share script"
+msgstr "Share script"
 
 #: app/components/character-controls.tsx
 msgid "Show"
 msgstr "Show"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Show Abilities"
 msgstr "Show Abilities"
 
@@ -367,7 +379,7 @@ msgstr "Show bluffs"
 msgid "Show players"
 msgstr "Show players"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Skip drawing characters"
 msgstr "Skip drawing characters"
 
@@ -399,15 +411,15 @@ msgstr "Time's up!"
 msgid "Timer Alarm"
 msgstr "Timer Alarm"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "TOTAL ({selectedCount} / {playerCount})"
 msgstr "TOTAL ({selectedCount} / {playerCount})"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "TOWN ({townsfolkCount} / {townsfolkCountTarget})"
 msgstr "TOWN ({townsfolkCount} / {townsfolkCountTarget})"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "TRAV ({travellerCount} / {travellerCountTarget})"
 msgstr "TRAV ({travellerCount} / {travellerCountTarget})"
 
@@ -415,7 +427,7 @@ msgstr "TRAV ({travellerCount} / {travellerCountTarget})"
 msgid "Travellers"
 msgstr "Travellers"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Upload custom script"
 msgstr "Upload custom script"
 
@@ -439,6 +451,6 @@ msgstr "Wake the Demon and show all Minions. Then, show the Demon any three good
 msgid "What's your name?"
 msgstr "What's your name?"
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "You have setup errors."
 msgstr "You have setup errors."

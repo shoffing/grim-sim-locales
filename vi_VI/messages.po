@@ -54,7 +54,7 @@ msgstr ""
 msgid "Are you sure you want to clear the grimoire?"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Are you sure you want to continue?"
 msgstr ""
 
@@ -64,6 +64,10 @@ msgstr ""
 
 #: app/settings.tsx
 msgid "Attributions"
+msgstr ""
+
+#: app/game-setup/share-script.tsx
+msgid "Back to Game Setup"
 msgstr ""
 
 #: app/settings.tsx
@@ -77,7 +81,7 @@ msgstr ""
 #: app/components/character-controls.tsx
 #: app/components/character-controls.tsx
 #: app/components/game-controls.tsx
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Cancel"
 msgstr ""
 
@@ -89,7 +93,7 @@ msgstr ""
 msgid "Characters"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Characters ({selectedCount} / {playerCount})"
 msgstr ""
 
@@ -105,11 +109,11 @@ msgstr ""
 msgid "Clear Mark"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Continue"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Custom"
 msgstr ""
 
@@ -117,7 +121,7 @@ msgstr ""
 msgid "Day Timer (minutes)"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "DEM ({demonCount} / {demonCountTarget})"
 msgstr ""
 
@@ -133,7 +137,7 @@ msgstr ""
 msgid "Demon Info"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Draw characters"
 msgstr ""
 
@@ -141,7 +145,7 @@ msgstr ""
 msgid "Fabled"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Final Counts"
 msgstr ""
 
@@ -161,7 +165,7 @@ msgstr ""
 msgid "Game setup"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Game Setup"
 msgstr ""
 
@@ -177,7 +181,7 @@ msgstr ""
 msgid "Got it!"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Hide Abilities"
 msgstr ""
 
@@ -193,7 +197,7 @@ msgstr ""
 msgid "Info Tokens"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 #: app/screens/character-select.tsx
 #: app/show-jinxes.tsx
 msgid "Jinxes"
@@ -219,7 +223,7 @@ msgstr ""
 msgid "Mark for Execution"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "MIN ({minionCount} / {minionCountTarget})"
 msgstr ""
 
@@ -231,7 +235,7 @@ msgstr ""
 msgid "Must not put the {name} in the bag."
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Must select exactly {playerCount} characters."
 msgstr ""
 
@@ -256,7 +260,7 @@ msgid "None"
 msgstr ""
 
 #: app/components/character-controls.tsx
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Open wiki"
 msgstr ""
 
@@ -268,11 +272,11 @@ msgstr ""
 msgid "Other nights:"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "OUT ({outsiderCount} / {outsiderCountTarget})"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Players"
 msgstr ""
 
@@ -280,7 +284,7 @@ msgstr ""
 #~ msgid "Remember setup steps for the {characterName} {rule}"
 #~ msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Remember setup steps for the {characterName}{rule}"
 msgstr ""
 
@@ -307,6 +311,10 @@ msgstr ""
 msgid "Revive player"
 msgstr ""
 
+#: app/script.tsx
+msgid "Script toooool!"
+msgstr ""
+
 #: app/screens/character-select.tsx
 msgid "Search characters."
 msgstr ""
@@ -315,15 +323,15 @@ msgstr ""
 msgid "Search reminders."
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Select custom script"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Select Edition"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Select Random"
 msgstr ""
 
@@ -341,15 +349,19 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Setup"
+msgstr ""
+
+#: app/game-setup/index.tsx
+msgid "Share script"
 msgstr ""
 
 #: app/components/character-controls.tsx
 msgid "Show"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Show Abilities"
 msgstr ""
 
@@ -367,7 +379,7 @@ msgstr ""
 msgid "Show players"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Skip drawing characters"
 msgstr ""
 
@@ -399,15 +411,15 @@ msgstr ""
 msgid "Timer Alarm"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "TOTAL ({selectedCount} / {playerCount})"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "TOWN ({townsfolkCount} / {townsfolkCountTarget})"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "TRAV ({travellerCount} / {travellerCountTarget})"
 msgstr ""
 
@@ -415,7 +427,7 @@ msgstr ""
 msgid "Travellers"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "Upload custom script"
 msgstr ""
 
@@ -439,6 +451,6 @@ msgstr ""
 msgid "What's your name?"
 msgstr ""
 
-#: app/game-setup.tsx
+#: app/game-setup/index.tsx
 msgid "You have setup errors."
 msgstr ""
