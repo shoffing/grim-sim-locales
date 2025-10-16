@@ -408,6 +408,10 @@ msgstr "Mostrar jogadores"
 msgid "Skip drawing characters"
 msgstr "Pular sorteio de personagens"
 
+#: app/screens/grim.tsx
+msgid "Start a new game!"
+msgstr ""
+
 #: app/draw-characters.tsx
 msgid "Start the game"
 msgstr "Começar o jogo"

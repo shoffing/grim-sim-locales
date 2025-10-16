@@ -408,6 +408,10 @@ msgstr "プレイヤーを表示"
 msgid "Skip drawing characters"
 msgstr "キャラクターを引くのをスキップ"
 
+#: app/screens/grim.tsx
+msgid "Start a new game!"
+msgstr ""
+
 #: app/draw-characters.tsx
 msgid "Start the game"
 msgstr "ゲームを開始"
