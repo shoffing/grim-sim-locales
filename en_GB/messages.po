@@ -125,6 +125,7 @@ msgstr "Continue"
 msgid "Custom"
 msgstr "Custom"
 
+#: app/components/grim-timer.tsx
 #: app/settings.tsx
 msgid "Day Timer (minutes)"
 msgstr "Day Timer (minutes)"

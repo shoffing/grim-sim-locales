@@ -125,6 +125,7 @@ msgstr "続行"
 msgid "Custom"
 msgstr "カスタム"
 
+#: app/components/grim-timer.tsx
 #: app/settings.tsx
 msgid "Day Timer (minutes)"
 msgstr "昼のタイマー（分）"
