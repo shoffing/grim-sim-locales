@@ -194,6 +194,10 @@ msgstr ""
 msgid "Got it!"
 msgstr ""
 
+#: app/contexts/timer-context.tsx
+msgid "GrimSim timer is running..."
+msgstr ""
+
 #: app/game-setup/index.tsx
 msgid "Hide Abilities"
 msgstr ""
@@ -208,6 +212,10 @@ msgstr ""
 
 #: app/screens/info-tokens.tsx
 msgid "Info Tokens"
+msgstr ""
+
+#: app/contexts/timer-context.tsx
+msgid "It's time for everybody to return to the Town Square!"
 msgstr ""
 
 #: app/game-setup/index.tsx
@@ -250,8 +258,8 @@ msgid "Minions"
 msgstr ""
 
 #: constants/characters/character-data.ts
-msgid "Must not put the {name} in the bag."
-msgstr ""
+#~ msgid "Must not put the {name} in the bag."
+#~ msgstr ""
 
 #: app/game-setup/index.tsx
 msgid "Must select exactly {playerCount} characters."
@@ -439,6 +447,7 @@ msgstr ""
 msgid "This project uses assets from https://www.freepik.com/. Thanks to macrovector / kotkoa / Freepik!"
 msgstr ""
 
+#: app/contexts/timer-context.tsx
 #: app/contexts/timer-context.tsx
 msgid "Time's up!"
 msgstr ""

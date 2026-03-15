@@ -194,6 +194,10 @@ msgstr "Gong.wav by juskiddink -- https://freesound.org/s/86773/ -- License: Att
 msgid "Got it!"
 msgstr "Got it!"
 
+#: app/contexts/timer-context.tsx
+msgid "GrimSim timer is running..."
+msgstr "GrimSim timer is running..."
+
 #: app/game-setup/index.tsx
 msgid "Hide Abilities"
 msgstr "Hide Abilities"
@@ -209,6 +213,10 @@ msgstr "Info tokens"
 #: app/screens/info-tokens.tsx
 msgid "Info Tokens"
 msgstr "Info Tokens"
+
+#: app/contexts/timer-context.tsx
+msgid "It's time for everybody to return to the Town Square!"
+msgstr "It's time for everybody to return to the Town Square!"
 
 #: app/game-setup/index.tsx
 #: app/screens/character-select.tsx
@@ -250,8 +258,8 @@ msgid "Minions"
 msgstr "Minions"
 
 #: constants/characters/character-data.ts
-msgid "Must not put the {name} in the bag."
-msgstr "Must not put the {name} in the bag."
+#~ msgid "Must not put the {name} in the bag."
+#~ msgstr "Must not put the {name} in the bag."
 
 #: app/game-setup/index.tsx
 msgid "Must select exactly {playerCount} characters."
@@ -439,6 +447,7 @@ msgstr "The Pandemonium Institute"
 msgid "This project uses assets from https://www.freepik.com/. Thanks to macrovector / kotkoa / Freepik!"
 msgstr "This project uses assets from https://www.freepik.com/. Thanks to macrovector / kotkoa / Freepik!"
 
+#: app/contexts/timer-context.tsx
 #: app/contexts/timer-context.tsx
 msgid "Time's up!"
 msgstr "Time's up!"
